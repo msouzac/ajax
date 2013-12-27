@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://ajax.com/ns/1.0"
+        id       = "com.ajax.mobile"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    
+    <name>Kammi</name>
+
+
+    <description>
+        Mensagens expressas
+    </description>
+
+    <author href="http://www.gnocorp.com.br" email="web_magno@hotmail.com">
+    </author>
+
+    <preference name="fullscreen" value="true" />
+    <icon src="img/ico.png" />
+  
+</widget>
